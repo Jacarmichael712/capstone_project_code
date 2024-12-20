@@ -1,0 +1,1 @@
+define('SCRIPTPATH','/phpChart/');
